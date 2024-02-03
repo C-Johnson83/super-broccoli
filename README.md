@@ -67,36 +67,36 @@ To install the super-broccoli, follow these steps:
  
 ## Features
 - Offline Editing:
-    ```bash
+    
     Users can create and edit text content even when offline.
     Changes made offline are synchronized and saved to IndexedDB once the internet connection is restored.  
 
 - Data Persistence:
-    ```bash
+ 
     Utilizes IndexedDB for data storage, ensuring a reliable and efficient way to save and retrieve user content.
 - Code Syntax Highlighting:
-    ```bash
+   
     Supports syntax highlighting for code snippets, enhancing the readability of programming content.
 - Responsive Design:
-    ```bash
+   
     The text editor adapts to various screen sizes, providing a seamless user experience on both desktop and mobile devices.
 - Service Worker Integration:
-    ```bash
+   
     Implements a service worker using Workbox to enable background sync, push notifications, and efficient caching of static assets.
 - Install as Desktop App:
-    ```bash
+   
     Users can install the web application as a desktop app by clicking the Install button. The app icon will be added to the desktop for quick access.
 - Webpack Bundling:
-    ```bash
+   
     Uses Webpack to bundle JavaScript files, ensuring efficient code organization and optimization.
 - Next-gen JavaScript Support:
-    ```bash
+   
     The application is built using next-gen JavaScript features, ensuring compatibility with modern browsers while maintaining functionality.
 - Client-Server Architecture:
-    ```bash
+   
     Features a client-server folder structure for clear separation of frontend and backend code.
 - Render Deployment Scripts:
-    ```bash
+   
     Provides proper build scripts for deploying the application to Render, ensuring a smooth deployment process.
 
 ## License
